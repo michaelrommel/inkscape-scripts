@@ -1,0 +1,27 @@
+{
+  "name": "inkscape-scripts",
+  "version": "0.1.0",
+  "description": "A collection of small scripts for manipulating inkscape SVGs.",
+  "main": "convert-to-symbol.js",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelrommel/inkscape-scripts.git"
+  },
+  "keywords": [
+    "inkscape",
+    "svg"
+  ],
+  "author": "Michael Rommel <rommel@layer-7.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrommel/inkscape-scripts/issues"
+  },
+  "homepage": "https://github.com/michaelrommel/inkscape-scripts#readme"
+}
